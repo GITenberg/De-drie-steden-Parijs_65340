@@ -5,6 +5,9 @@ contributor:
     agent_name: W. J. A. Roldanus Jr.
     gutenberg_agent_id: '53295'
     url: http://www.gutenberg.org/2009/agents/53295
+covers:
+- cover_type: archival
+  image_path: 65340-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Émile_Zola
     - https://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65340#De-drie-steden-Parijs
 gutenberg_issued: '2021-05-14'
 gutenberg_type: Text
 identifiers:
