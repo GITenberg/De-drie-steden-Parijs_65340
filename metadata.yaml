@@ -1,0 +1,33 @@
+_repo: De-drie-steden-Parijs_65340
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: W. J. A. Roldanus Jr.
+    gutenberg_agent_id: '53295'
+    url: http://www.gutenberg.org/2009/agents/53295
+creator:
+  author:
+    agent_name: Zola, Émile
+    aliases:
+    - Zola, Emile
+    - Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Émile_Zola
+    - https://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: ''
+gutenberg_issued: '2021-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65340'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'De drie steden: Parijs'
+url: http://www.gutenberg.org/ebooks/65340
